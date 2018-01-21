@@ -1,3 +1,7 @@
 $(document).ready(function(){
-  $("#yo").append("hey hey hey hey!!!!!");
+  heyEverybody();
 })
+
+function heyEverybody(){
+  $("#yo").append("hey hey hey hey!!!!!");
+}
